@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+I'm Lily, an aspiring software developer based in New Zealand.
+__________________________________________________________________________________
+## Tools & Tech
+* C, C#, C++
+* Photoshop, Illustrator, Figma
+__________________________________________________________________________________
+## A Bit About Me
+* Not a coffee or tea person
+* Into anime - Haikyu!! is my favorite
+* I like drawing
 <!--
 **itztwilight/itztwilight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
